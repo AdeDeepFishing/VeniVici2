@@ -1,0 +1,77 @@
+*{
+  max-width: 1280px;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+.App{
+  display: flex;
+  justify-content: space-between;
+  min-width: 100vw;
+  align-items: center;
+}
+label{
+  display: flex;
+  flex-direction: column;
+}
+.history {
+  background-color: #fdfddf;
+  box-shadow: 1px 1px 10px #f7ccec;
+  height: 100vh;
+  min-width: 250px;
+  overflow-y: scroll;
+  padding: 0 10px;
+}
+.cat-history > img {
+  height: 100px;
+  width: 100px;
+  object-fit: cover;
+}
+.banned-list{
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  box-shadow: 1px 1px 10px #f7ccec;
+  background-color: #d2ffe4;
+  height: 100vh;
+  min-width: 250px;
+}
+.queryRes{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.main-container{
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffd8fe;
+  box-shadow: 1px 1px 10px #f7ccec;
+  border-radius: 10px;
+  height: 680px;
+  width: 650px;
+}
+img {
+  width: 200px;
+  border-radius: 10px;
+  margin: 15px 0px;
+}
+.attributes {
+  margin-top: 20px;
+  display: flex;
+  gap: 15px;
+}
+
+.banned-item{
+  padding: 10px 15px;
+  background-color: #ff8787;
+  margin: 10px 0px;
+  color: #242323;
+  border-radius: 5px;
+  cursor: pointer;
+  border-bottom: solid 4px #f29292;
+}
