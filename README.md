@@ -1,4 +1,4 @@
-# Web Development Project 4 - *VeniViciCat*
+# Web Development Project 4 - *VeniViciCats*
 
 Submitted by: **Yanwen Chen**
 
@@ -35,7 +35,7 @@ Here's a walkthrough of implemented user stories:
 ![ezgif com-video-to-gif (3)](https://github.com/AdeDeepFishing/VeniVici2/assets/91364746/e30c11ce-991e-49ba-9fb9-b2d651b0d9a7)
 
 
-GIF created with [...](https://ezgif.com/)  
+GIF created with (https://ezgif.com/)  
 
 
 ## Notes
